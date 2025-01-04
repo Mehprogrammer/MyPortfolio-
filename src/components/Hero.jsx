@@ -189,7 +189,7 @@ const Hero = () => {
 
               {/* Expanded Image */}
               <img
-                src="/IMG_6732 (1).jpg"
+                src="/IMG_6732 (1).JPG"
                 alt="Junaid expanded"
                 className="w-[90vw] max-w-[600px] rounded-xl shadow-2xl"
                 style={{
