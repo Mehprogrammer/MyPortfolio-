@@ -37,7 +37,7 @@ const Contact = () => {
             title="Email me"
           >
             <img
-              src="src/assets/tech/gmail.png"
+              src="public/gmail.png"
               alt="Gmail"
               className="w-16 h-16 hover:scale-110 transition duration-200"
             />
@@ -51,7 +51,7 @@ const Contact = () => {
             title="My GitHub"
           >
             <img
-              src="src/assets/github.png"
+              src="public/github.png"
               alt="GitHub"
               className="w-16 h-16 hover:scale-110 transition duration-200"
             />
@@ -65,7 +65,7 @@ const Contact = () => {
             title="My LinkedIn"
           >
             <img
-              src="src/assets/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp"
+              src="public/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp"
               alt="LinkedIn"
               className="w-16 h-16 hover:scale-110 transition duration-200"
             />

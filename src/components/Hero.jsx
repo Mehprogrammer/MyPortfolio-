@@ -72,7 +72,7 @@ const Hero = () => {
             
             {/* Actual Image */}
             <img 
-              src="src/components/IMG_6732 (1).jpg"
+              src="public/IMG_6732 (1).JPG"
               alt="Junaid"
               className="relative w-full h-full rounded-full object-cover shadow-2xl"
               style={{
@@ -125,7 +125,7 @@ const Hero = () => {
           title="Email me"
         >
           <img
-            src="src/assets/tech/gmail.png"
+            src="public/gmail.png"
             alt="Gmail"
             className="w-16 h-16 hover:scale-110 transition duration-200"
           />
@@ -139,7 +139,7 @@ const Hero = () => {
           title="My GitHub"
         >
           <img
-            src="src/assets/github.png"
+            src="public/github.png"
             alt="GitHub"
             className="w-16 h-16 hover:scale-110 transition duration-200"
           />
@@ -153,7 +153,7 @@ const Hero = () => {
           title="My LinkedIn"
         >
           <img
-            src="src/assets/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp"
+            src="public/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp"
             alt="LinkedIn"
             className="w-16 h-16 hover:scale-110 transition duration-200"
           />
