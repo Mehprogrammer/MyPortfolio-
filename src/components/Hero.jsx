@@ -72,13 +72,13 @@ const Hero = () => {
             
             {/* Actual Image */}
             <img 
-              src="public/IMG_6732 (1).JPG"
+              src="/IMG_6732 (1).jpg"
               alt="Junaid"
               className="relative w-full h-full rounded-full object-cover shadow-2xl"
               style={{
                 boxShadow: '0 0 25px rgba(4, 217, 255, 0.3)'
               }}
-            />
+            /> 
           </motion.div>
         </div>
       </div>
@@ -125,7 +125,7 @@ const Hero = () => {
           title="Email me"
         >
           <img
-            src="public/gmail.png"
+            src="/gmail.png"
             alt="Gmail"
             className="w-16 h-16 hover:scale-110 transition duration-200"
           />
@@ -139,7 +139,7 @@ const Hero = () => {
           title="My GitHub"
         >
           <img
-            src="public/github.png"
+            src="/github.png"
             alt="GitHub"
             className="w-16 h-16 hover:scale-110 transition duration-200"
           />
@@ -153,7 +153,7 @@ const Hero = () => {
           title="My LinkedIn"
         >
           <img
-            src="public/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp"
+            src="/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp"
             alt="LinkedIn"
             className="w-16 h-16 hover:scale-110 transition duration-200"
           />
@@ -189,7 +189,7 @@ const Hero = () => {
 
               {/* Expanded Image */}
               <img
-                src="src/components/IMG_6732 (1).jpg"
+                src="/IMG_6732 (1).jpg"
                 alt="Junaid expanded"
                 className="w-[90vw] max-w-[600px] rounded-xl shadow-2xl"
                 style={{
